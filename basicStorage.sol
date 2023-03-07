@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-//Contract for Basic Storage for storing and fetching information from Blockchain
+// Contract for Basic Storage for storing and fetching information from Blockchain
 
 pragma solidity ^0.8.9; // Hello, I am Samnan. Getting Started with Web3.
 
